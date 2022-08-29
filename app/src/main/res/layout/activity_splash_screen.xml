@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_secondary_variant"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.surah_pendek.SplashScreen"
+    android:id="@+id/splash_screen">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/logo"
+        tools:ignore="VectorDrawableCompat"
+        android:contentDescription="@string/logo_splash_screen" />
+    <ProgressBar
+        android:id="@+id/progresBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"/>
+</RelativeLayout>

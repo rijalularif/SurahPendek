@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.surah_pendek.MainActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/relatif1"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true"
+            android:background="@color/white"
+            tools:ignore="UselessParent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:text="@string/surah_surah_pendek"
+                android:textAlignment="center"
+                android:textColor="#A1887F"
+                android:textSize="30sp" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ScrollView
+        android:layout_below="@+id/relatif1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scroll1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_an_naas"
+                android:onClick="play1"
+                android:src="@drawable/annaas"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_falaq"
+                android:onClick="play2"
+                android:src="@drawable/alfalaq"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_ikhlash"
+                android:onClick="play3"
+                android:src="@drawable/alikhlash"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_lahab"
+                android:onClick="play4"
+                android:src="@drawable/allahab"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_an_nashr"
+                android:onClick="play5"
+                android:src="@drawable/annashr"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_kafirun"
+                android:onClick="play6"
+                android:src="@drawable/alkafirun"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_kautsar"
+                android:onClick="play7"
+                android:src="@drawable/alkautsar"
+                tools:ignore="ImageContrastCheck" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/surah_al_maauun"
+                android:onClick="play8"
+                android:src="@drawable/almaauun"
+                tools:ignore="ImageContrastCheck" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="bismillah">بِسْمِ اللَّـهِ الرَّحْمٰنِ الرَّحِيمِ</string>
+
+    <string name="annas1">قُلْ اَعُوْذُ بِرَبِّ النَّاسِ</string>
+    <string name="annas2">مَلِكِ النَّاسِۙ</string>
+    <string name="annas3">اِلٰهِ النَّاسِِۙۙ</string>
+    <string name="annas4">مِنۡ شَرِّ الۡوَسۡوَاسِ  ۙ الۡخَـنَّاسِِۙ</string>
+    <string name="annas5">الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِِۙۙ</string>
+    <string name="annas6">مِنَ الۡجِنَّةِ وَالنَّاسِ</string>
+
+    <string name="alfalaq1">قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ</string>
+    <string name="alfalaq2">مِنۡ شَرِّ مَا خَلَقَِۙۙ</string>
+    <string name="alfalaq3">وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَِۙۙ</string>
+    <string name="alfalaq4">وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِِۙۙ</string>
+    <string name="alfalaq5">وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَِۙ</string>
+
+    <string name="alikhlas1">قُلۡ هُوَ اللّٰهُ اَحَدٌ</string>
+    <string name="alikhlas2">اَللّٰهُ الصَّمَدٌُ</string>
+    <string name="alikhlas3">لَمۡ يَلِدۡ ۙ وَلَمۡ يُوۡلَدٌۡ</string>
+    <string name="alikhlas4">وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌٌ</string>
+
+    <string name="allahab1">تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ </string>
+    <string name="allahab2">مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ </string>
+    <string name="allahab3">سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ </string>
+    <string name="allahab4">وَامْرَأَتُهُۥ حَمَّالَةَ الْحَطَبِ </string>
+    <string name="allahab5">فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ</string>
+
+    <string name="annashr1">إِذَا جَآءَ نَصْرُ اللَّـهِ وَالْفَتْحُ </string>
+    <string name="annashr2">وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِى دِينِ اللَّـهِ أَفْوَاجًا</string>
+    <string name="annashr3">فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا</string>
+
+    <string name="alkafirun1">قُلْ يٰٓأَيُّهَا الْكٰفِرُونَ</string>
+    <string name="alkafirun2">لَآ أَعْبُدُ مَا تَعْبُدُونَ</string>
+    <string name="alkafirun3">وَلَآ أَنتُمْ عٰبِدُونَ مَآ أَعْبُدُ</string>
+    <string name="alkafirun4">وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ</string>
+    <string name="alkafirun5">وَلَآ أَنتُمْ عٰبِدُونَ مَآ أَعْبُدُ</string>
+    <string name="alkafirun6">لَكُمْ دِينُكُمْ وَلِىَ دِينِ</string>
+
+    <string name="alkautsar1">إِنَّآ أَعْطَيْنٰكَ الْكَوْثَرَ</string>
+    <string name="alkautsar2">فَصَلِّ لِرَبِّكَ وَانْحَرْ</string>
+    <string name="alkautsar3">إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ</string>
+
+    <string name="almaun1">أَرَءَيْتَ الَّذِى يُكَذِّبُ بِالدِّينِ</string>
+    <string name="almaun2">فَذٰلِكَ الَّذِى يَدُعُّ الْيَتِيمَ</string>
+    <string name="almaun3">وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ</string>
+    <string name="almaun4">فَوَيْلٌ لِّلْمُصَلِّينَ</string>
+    <string name="almaun5">الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ</string>
+    <string name="almaun6">الَّذِينَ هُمْ يُرَآءُونَ</string>
+    <string name="almaun7">وَيَمْنَعُونَ الْمَاعُونَ</string>
+
+    <string name="al_lahab">Al Lahab (اللهب)</string>
+    <string name="an_naas">An Naas (الناس)</string>
+    <string name="an_nashr">An Nashr (النصر)</string>
+    <string name="al_kafirun">Al Kafirun (الكافرون)</string>
+    <string name="al_kautsar">Al Kautsar (الكوثر)</string>
+    <string name="al_maa_uun">Al Maauun (الماعون)</string>
+    <string name="al_ikhlash">Al Ikhlash (الإخلاص)</string>
+    <string name="al_falaq">Al Falaq (الفلق)</string>
+
+    <string name="app_name">Surah Pendek</string>
+    <string name="surah_surah_pendek">Surah Surah Pendek</string>
+    <string name="tombol_play">tombol play</string>
+    <string name="logo_splash_screen">Logo Splash Screen</string>
+    <string name="garis_batas">garis batas</string>
+    <string name="surah_an_naas">Surah An Naas</string>
+    <string name="surah_al_falaq">Surah Al Falaq</string>
+    <string name="surah_al_ikhlash">Surah Al Ikhlash</string>
+    <string name="surah_al_lahab">Surah Al Lahab</string>
+    <string name="surah_an_nashr">Surah An Nashr</string>
+    <string name="surah_al_kafirun">Surah Al Kafirun</string>
+    <string name="surah_al_kautsar">Surah Al Kautsar</string>
+    <string name="surah_al_maauun">Surah Al Maauun</string>
+
+</resources>
